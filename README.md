@@ -27,7 +27,7 @@ cd /var/www/html
 
 #clonar o website a partir do git-hub
 
-sudo git clone https://github.com/droneipcb/otario_bank.git
+sudo git clone https://github.com/leandroManjate/otario_bank.git
 
 
 #ir para a pasta do website
