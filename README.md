@@ -1,6 +1,6 @@
 # otario_bank, pequeno website para demonstrar vulnerabilidades em aplicações Web
 
-autor: Osvaldo Santos, Instituto Politécnico de Castelo Branco
+autor: Leandro Tito Manjate, Instituto Politécnico de Castelo Branco
 
 
 Instruções para instalar o website numa VM com Uubuntu 22
